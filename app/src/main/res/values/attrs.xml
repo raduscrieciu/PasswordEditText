@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="PasswordEditText">
+        <attr name="showActionText" format="string"/>
+        <attr name="hideActionText" format="string"/>
+        <attr name="actionLabelColor" format="color"/>
+        <attr name="actionLabelSize" format="dimension"/>
+    </declare-styleable>
+</resources>
